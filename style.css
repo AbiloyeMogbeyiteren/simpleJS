@@ -45,9 +45,11 @@ h1{
 }
 .increase{
     color: green;
+    border-radius: 50%;
 }
 .decrease{
     color: red;
+    border-radius: 50%;
 }
 .reset{
     color: black;
