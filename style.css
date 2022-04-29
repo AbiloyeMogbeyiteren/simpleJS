@@ -44,14 +44,14 @@ h1{
     font-size: xx-large;
 }
 .increase{
-    font-size: xx-large;
+    
     color: green;
-    border-radius: 50%;
+    
 }
 .decrease{
-    font-size: xx-large;
+    
     color: red;
-    border-radius: 50%;
+    
 }
 .reset{
     color: black;
